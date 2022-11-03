@@ -1,5 +1,8 @@
 ### 안녕하세요☺️ 동국대학교에서 경영정보학과 융합소프트웨어를 전공하고 있는 곽호은입니다. 👋
 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=로고명&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=로고명&logoColor=Slack"/>
+
 <!--
 **hooooooni/hooooooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
