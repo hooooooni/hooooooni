@@ -3,6 +3,8 @@
 #### 사용 가능 협업 툴
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=Slack"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooooooni&layout=compact&theme=swift&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hooooooni/hooooooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
